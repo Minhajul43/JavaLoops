@@ -9,3 +9,7 @@ public class ForLoop {
     }
   }
 }
+/*
+The for loop is used when we know the number of iterations (we know how many times we
+want to repeat a task).
+*/
